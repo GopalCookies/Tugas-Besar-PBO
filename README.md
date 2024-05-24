@@ -27,7 +27,7 @@
 1. ****
    Karakter utama yang dapat dikendalikan oleh pemain.
 
-   ![](https://github.com/Cookies/Tugas-Besar-PBO/assets/167991243/bd7c011a-7515-4642-9a8b-bb325a94d776)
+   ![gopal](https://github.com/Cookies/Tugas-Besar-PBO/assets/167991243/bd7c011a-7515-4642-9a8b-bb325a94d776)
 
 
 3. **Prob**
