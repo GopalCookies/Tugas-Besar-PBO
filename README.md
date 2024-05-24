@@ -1,4 +1,4 @@
-w# Goopall Cookies
+# Goopall Cookies
 ![title](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/e8e6b57d-b6e9-4bb1-bbaf-6992eaee6b17)
 
 
