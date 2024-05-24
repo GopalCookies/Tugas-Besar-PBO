@@ -55,7 +55,7 @@ w# Goopall Cookies
 Ketika pemain menekan tombol kontrol kursor di keyboard, maka karakter Gopal akan bergerak sesuai arah kursor.
 
 ###  Menembak Cookies
-Ketika pemain menekan tombol **space** atau **Klik kiri** di mouse, Gopal akan menembakkan cookies. Arah cookies yang ditembakkan bisa diatur dengan cara menggerakkan **kursor** dengan mouse atau trackpad.
+Ketika pemain menekan tombol **space** atau **klik kiri** di mouse, Gopal akan menembakkan cookies. Arah cookies yang ditembakkan bisa diatur dengan cara menggerakkan **kursor** dengan mouse atau trackpad.
 
 ![WhatsApp Image 2024-05-21 at 08 48 49_cb7a9fd9](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/71333dd1-2f3a-4d2f-9a36-c0f1ca31b50e)
 
