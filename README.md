@@ -1,4 +1,4 @@
-# Goopall Cookies
+w# Goopall Cookies
 ![title](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/e8e6b57d-b6e9-4bb1-bbaf-6992eaee6b17)
 
 
@@ -51,17 +51,17 @@
 
 
 ## Mekanisme
-### Pemain mengontrol 
-Pemain menggerakan kursor maka karakter Gopal akan bergerak sesuai arah kursor.
+### Kontrol Pemain 
+Ketika pemain menekan tombol kontrol kursor di keyboard, maka karakter Gopal akan bergerak sesuai arah kursor.
 
-###  menembak Cookie
-Ketika pemain menekan tombol **space**, Gopal akan menembakkan cookies ke arah musuh.
+###  Menembak Cookies
+Ketika pemain menekan tombol **space** atau **Klik kiri** di mouse, Gopal akan menembakkan cookies. Arah cookies yang ditembakkan bisa diatur dengan cara menggerakkan **kursor** dengan mouse atau trackpad.
 
 ![WhatsApp Image 2024-05-21 at 08 48 49_cb7a9fd9](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/71333dd1-2f3a-4d2f-9a36-c0f1ca31b50e)
 
 
 ### Cookie mengenai musuh
-Ketika objek Cookies bertabrakan dengan objek Enemy, musuh akan terhapuskan dan pemain akan mendapatkan skor. 
+Ketika objek Cookies bertabrakan dengan objek Enemy, musuh akan hilang dan pemain akan mendapatkan skor. 
 
 **KHUSUS UNTUK BOSS ENEMY**:
 - Ketika cookies mengenai Adudu, Adudu akan berubah menjadi slime.
@@ -70,7 +70,7 @@ Ketika objek Cookies bertabrakan dengan objek Enemy, musuh akan terhapuskan dan 
 ![WhatsApp Image 2024-05-21 at 08 58 19_1dc3c016](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/74764a06-6633-4445-9fba-a4ea0daee799)
 
 
-### Musuh bergerak dan menembak
+### Musuh bergerak
 Musuh akan terus datang dan bergerak secara **RANDOM**. 
 
 **UNTUK ENEMY KOKO JUMBO**:
