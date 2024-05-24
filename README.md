@@ -1,9 +1,9 @@
-# Gopall Cookies
+# Goopall Cookies
 ![title](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/e8e6b57d-b6e9-4bb1-bbaf-6992eaee6b17)
 
 
 ## Description
-**Gopal-Cookies** adalah game menembak monster yang terinspirasi dari kartun **Boboiboy**. Pemain akan berperan sebagai Gopal, pahlawan super dengan kekuatan super untuk mengubah benda menjadi makanan. Tugas pemain adalah menembakkan cookies pada monster bernama Koko Jumbo, Multi Monster, Prob, dan Adudu.
+**Goopall-Cookies** adalah game menembak monster yang terinspirasi dari kartun **Boboiboy**. Pemain akan berperan sebagai Gopal, pahlawan super dengan kekuatan super untuk mengubah benda menjadi makanan. Tugas pemain adalah menembakkan cookies pada monster bernama Koko Jumbo, Multi Monster, Prob, dan Adudu.
 
 ## Libraries
 - **Pygame**
@@ -24,44 +24,44 @@
 
 ## Karakter
 
-1. **Gopal**
+1. ****
    Karakter utama yang dapat dikendalikan oleh pemain.
 
-   ![gopal](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/bd7c011a-7515-4642-9a8b-bb325a94d776)
+   ![](https://github.com/Cookies/Tugas-Besar-PBO/assets/167991243/bd7c011a-7515-4642-9a8b-bb325a94d776)
 
 
 3. **Prob**
-   Jenis musuh yang paling dasar. Menyerang Gopal dengan terbang langsung ke arahnya.
+   Jenis musuh yang paling dasar. Menyerang  dengan terbang langsung ke arahnya.
 
    
-   ![prob](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/5c5a659b-cf10-46ab-8b2e-94570f8ef742)
+   ![prob](https://github.com/Cookies/Tugas-Besar-PBO/assets/167991243/5c5a659b-cf10-46ab-8b2e-94570f8ef742)
 
 
 5. **MultiMonster**
-   Musuh. Terbang langsung ke arah Gopal. Lebih lambat daripada Prob.
+   Musuh. Terbang langsung ke arah . Lebih lambat daripada Prob.
 
    
-   ![MultiMonster](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/1705cc8d-175e-4f92-904f-69773dea5f02)
+   ![MultiMonster](https://github.com/Cookies/Tugas-Besar-PBO/assets/167991243/1705cc8d-175e-4f92-904f-69773dea5f02)
 
 
 7. **Koko Jumbo**
-   Jenis musuh lainnya. Menembakkan laser merah ke arah Gopal.
+   Jenis musuh lainnya. Menembakkan laser merah ke arah .
 
    
-![koko](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/9c8529d8-e6c6-4f02-9c5f-407b515030c6)
+![koko](https://github.com/Cookies/Tugas-Besar-PBO/assets/167991243/9c8529d8-e6c6-4f02-9c5f-407b515030c6)
 
    
 8. **Adudu**
-   Jenis musuh yang paling sulit. Memiliki health terbanyak. Terbang menuju Gopal tetapi sangat lambat. Ketika mati, dia berubah menjadi banyak slime hijau.
+   Jenis musuh yang paling sulit. Memiliki health terbanyak. Terbang menuju  tetapi sangat lambat. Ketika mati, dia berubah menjadi banyak slime hijau.
    
-![adudu](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/2cb43173-8929-408a-a8ca-533d83241854)
+![adudu](https://github.com/Cookies/Tugas-Besar-PBO/assets/167991243/2cb43173-8929-408a-a8ca-533d83241854)
 
 
 ## Mekanisme
-### Pemain mengontrol Gopal
-Pemain menggerakan kursor maka karakter Gopal akan bergerak sesuai arah kursor.
+### Pemain mengontrol 
+Pemain menggerakan kursor maka karakter  akan bergerak sesuai arah kursor.
 
-### Gopal menembak Cookie
+###  menembak Cookie
 Ketika pemain menekan tombol **space**, Gopal akan menembakkan cookies ke arah musuh.
 
 ![WhatsApp Image 2024-05-21 at 08 48 49_cb7a9fd9](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/71333dd1-2f3a-4d2f-9a36-c0f1ca31b50e)
@@ -91,6 +91,9 @@ Ketika objek Laser bertabrakan dengan objek Gopal, pemain akan kehilangan **HEAL
 
 ## UML Diagram
 ![WhatsApp Image 2024-05-21 at 08 53 58_24b3fca9](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/5e185e23-4ef1-4aaa-822f-bdbad5024326)
+
+## Demo Game Goopall Cookies!
+https://youtu.be/u0X7fLTj-r4
 
 ## Credits
 | Nama | NIM | Kontribusi |
