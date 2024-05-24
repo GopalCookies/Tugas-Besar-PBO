@@ -24,42 +24,35 @@
 
 ## Karakter
 
-1. ****
-   Karakter utama yang dapat dikendalikan oleh pemain.
-
-   ![gopal](https://github.com/Cookies/Tugas-Besar-PBO/assets/167991243/bd7c011a-7515-4642-9a8b-bb325a94d776)
-
-
-3. **Prob**
-   Jenis musuh yang paling dasar. Menyerang  dengan terbang langsung ke arahnya.
-
+1. **Gopal**
+   Karakter utama yang dapat dikontrol oleh pemain. Bisa menembakkan cookies ke arah musuh.
    
-   ![prob](https://github.com/Cookies/Tugas-Besar-PBO/assets/167991243/5c5a659b-cf10-46ab-8b2e-94570f8ef742)
+   ![gopal](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/3e033bff-ed59-4284-8e87-82edda0269bb)
 
-
-5. **MultiMonster**
-   Musuh. Terbang langsung ke arah . Lebih lambat daripada Prob.
-
+2. **Prob**
+   Tipe musuh paling dasar. Menyerang gopal dengan terbang langsung ke arahnya.
    
-   ![MultiMonster](https://github.com/Cookies/Tugas-Besar-PBO/assets/167991243/1705cc8d-175e-4f92-904f-69773dea5f02)
+   ![prob](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/72d8f8df-2ed5-46d7-a9c4-81da64eaf39e)
 
-
-7. **Koko Jumbo**
-   Jenis musuh lainnya. Menembakkan laser merah ke arah .
-
+3. **MultiMonster**
+   Tipe musuh selanjutnya. Terbang langsung ke gopal namun Lebih lambat dari prob.
    
-![koko](https://github.com/Cookies/Tugas-Besar-PBO/assets/167991243/9c8529d8-e6c6-4f02-9c5f-407b515030c6)
+   ![MultiMonster](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/5a30e645-a810-4a77-8b3e-d020608fe929)
 
+4. **Koko Jumbo**
+   Tipe musuh selanjutnya. Koko jumbo bisa menembakkan laser merah ke arah gopal.
    
-8. **Adudu**
-   Jenis musuh yang paling sulit. Memiliki health terbanyak. Terbang menuju  tetapi sangat lambat. Ketika mati, dia berubah menjadi banyak slime hijau.
+   ![koko](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/ad9461cb-93d3-47c4-8079-430fadfed1c3)
+
+5. **Adudu**
+   Tipe musuh yang paling sulit. Memiliki health terbanyak. Terbang menuju Gopal tetapi sangat lambat. Saat health nya habis, dia hancur menjadi slime hijau.
    
-![adudu](https://github.com/Cookies/Tugas-Besar-PBO/assets/167991243/2cb43173-8929-408a-a8ca-533d83241854)
+   ![adudu](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/4d52275e-e954-43d4-96c2-c388903ef4e7)
 
 
 ## Mekanisme
 ### Pemain mengontrol 
-Pemain menggerakan kursor maka karakter  akan bergerak sesuai arah kursor.
+Pemain menggerakan kursor maka karakter Gopal akan bergerak sesuai arah kursor.
 
 ###  menembak Cookie
 Ketika pemain menekan tombol **space**, Gopal akan menembakkan cookies ke arah musuh.
@@ -93,7 +86,7 @@ Ketika objek Laser bertabrakan dengan objek Gopal, pemain akan kehilangan **HEAL
 ![WhatsApp Image 2024-05-21 at 08 53 58_24b3fca9](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/5e185e23-4ef1-4aaa-822f-bdbad5024326)
 
 ## Demo Game Goopall Cookies!
-https://youtu.be/u0X7fLTj-r4
+https://youtu.be/u0X7fLTj-r4 
 
 ## Credits
 | Nama | NIM | Kontribusi |
