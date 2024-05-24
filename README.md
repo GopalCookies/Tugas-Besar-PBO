@@ -24,27 +24,27 @@
 
 ## Karakter
 
-1. **Gopal**
+### **Gopal**
    Karakter utama yang dapat dikontrol oleh pemain. Bisa menembakkan cookies ke arah musuh.
    
    ![gopal](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/3e033bff-ed59-4284-8e87-82edda0269bb)
 
-2. **Prob**
+### **Prob**
    Tipe musuh paling dasar. Menyerang gopal dengan terbang langsung ke arahnya.
    
    ![prob](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/72d8f8df-2ed5-46d7-a9c4-81da64eaf39e)
 
-3. **MultiMonster**
+### **MultiMonster**
    Tipe musuh selanjutnya. Terbang langsung ke gopal namun Lebih lambat dari prob.
    
    ![MultiMonster](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/5a30e645-a810-4a77-8b3e-d020608fe929)
 
-4. **Koko Jumbo**
+### **Koko Jumbo**
    Tipe musuh selanjutnya. Koko jumbo bisa menembakkan laser merah ke arah gopal.
    
    ![koko](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/ad9461cb-93d3-47c4-8079-430fadfed1c3)
 
-5. **Adudu**
+### **Adudu**
    Tipe musuh yang paling sulit. Memiliki health terbanyak. Terbang menuju Gopal tetapi sangat lambat. Saat health nya habis, dia hancur menjadi slime hijau.
    
    ![adudu](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/4d52275e-e954-43d4-96c2-c388903ef4e7)
